@@ -10,7 +10,7 @@ This can and should be optimized and improved upon. I know very little about cod
 git clone https://github.com/Parole3640/docker-gemini-portal.git
 cd docker-gemini-portal
 docker build -t gemini-portal .
-docker run -p 5000:5000 gemini-portal
+docker run -d -p 5000:5000 gemini-portal
 ```
 
 ## License
