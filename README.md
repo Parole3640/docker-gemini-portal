@@ -4,10 +4,11 @@ A crude docker implementation of michael-lazar/gemini-portal
 
 ## How to run it
 
+```bash
 git clone https://github.com/Parole3640/docker-gemini-portal.git
 docker build -t gemini-portal .
 docker run -p 5000:5000 gemini-portal
-
+```
 
 ## License
 
