@@ -1,6 +1,8 @@
 # Docker Gemini Portal
 
-A crude docker implementation of michael-lazar/gemini-portal
+A crude docker implementation of [michael-lazar/gemini-portal](https://github.com/michael-lazar/gemini-portal)
+
+This can and should be optimized and improved upon. I know very little about coding.
 
 ## How to run it
 
@@ -12,7 +14,7 @@ docker run -p 5000:5000 gemini-portal
 
 ## License
 
-This maintains the license of the original project
+This project maintains the license of the original project.
 
 [The Human Software License](https://license.mozz.us)
 
